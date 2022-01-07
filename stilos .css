@@ -1,0 +1,44 @@
+
+.centralizado {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #999;
+    width: auto;
+    margin: 200px auto;
+    padding: 20px;
+}
+.centro {
+
+    width: 300 auto ;
+    height: 300 auto;
+    margin: 20px auto;
+    padding: 20px;
+}
+.alindireita{
+    float: right;
+    
+}
+.button {
+background-color: #000000;
+color: #FFFFFF;
+padding: 10px;
+border-radius: 10px;
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+margin:10px;
+float: right;
+}
+
+.small-btn {
+width: 50px;
+height: 25px;
+}
+
+.medium-btn {
+width: 70px;
+height: 30px;
+}
+
+.big-btn {
+width: 90px;
+height: 40px;
+}
